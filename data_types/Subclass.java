@@ -1,6 +1,5 @@
 class Subclass{
     Subclass() {
-        x=10;
         System.out.println("constructor executed");
 
     }

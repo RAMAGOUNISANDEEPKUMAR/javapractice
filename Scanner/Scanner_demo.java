@@ -11,7 +11,7 @@ class Scanner_demo
         String name = sc.nextLine();
 
         System.out.print("Enter your course: ");
-        String course = sc.next();
+        String course = sc.nextLine();
 
         System.out.print("Enter your coursefee: ");
         int coursefee = sc.nextInt();

@@ -1,6 +1,6 @@
 class copying03
 {
-    String Name;
+    String N;
     int Age;
     copying03(String Name,int Age)
     {
